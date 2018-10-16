@@ -6,9 +6,12 @@
   </head>
   <body>
       
-      <h1>Edgaras - HTML asas</h1>
+      <h1><?php print 'Edgaras' ?> - HTML asas</h1>
       
-      <p>Jau moku kurti statinį turinį</p>
+      <p><?php 
+        print 'Jau moku kurti statinį turinį' 
+      ?>
+      </p>
     
    
   </body>
