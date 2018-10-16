@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
     <head>
     <meta charset="utf-8">
-    <title>PHP lydės ir <?php print(date('Y', strtotime('+'.rand(1,10).' year')));?></title>
+    <title>PHP lydės ir <?php print(date('Y m d', strtotime('+'.rand(1,10).' year')));?></title>
   </head>
   <body>
      
