@@ -6,7 +6,7 @@
   </head>
   <body>
   <?php 
-  date('Y')
+  print date('Y')
   ?>  
   </body>
 </html>
