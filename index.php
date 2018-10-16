@@ -6,10 +6,10 @@
   </head>
   <body>
       
-      <h1><?php print 'Edgaras' ?> - HTML <?php print 'ir PHP ';?>asas</h1>
-      
+      <h1><?php print 'Edgaras' ?> - HTML <?php print 'ir PHP ';?>asas</h1><br>
+      <br>
       <p>Jau moku kurti dinaminį turinį. Atidaryta: <?php 
-        print date("Y F jS H:i:s"); 
+        print date('Y-m-d H:i:s'); 
       ?>
       </p>
     
