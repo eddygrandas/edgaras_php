@@ -1,5 +1,5 @@
 <?php
- print 'Veikia?';
+ print 'Veikia? taip Git';
  ?>
 
 
