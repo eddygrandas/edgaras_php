@@ -5,15 +5,9 @@
     <title>Aš valdau HTML!</title>
   </head>
   <body>
-      
-      <h1><?php print 'Edgaras' ?> - HTML asas</h1>
-      
-      <p><?php 
-        print 'Jau moku kurti statinį turinį' 
-      ?>
-      </p>
-    
-   
+  <?php 
+  date('Y')
+  ?>  
   </body>
 </html>
 
